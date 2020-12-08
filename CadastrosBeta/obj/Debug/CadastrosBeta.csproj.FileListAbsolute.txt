@@ -1,0 +1,14 @@
+C:\Programas\CadastrosBeta\bin\Debug\CadastrosBeta.exe.config
+C:\Programas\CadastrosBeta\bin\Debug\CadastrosBeta.exe
+C:\Programas\CadastrosBeta\bin\Debug\CadastrosBeta.pdb
+C:\Programas\CadastrosBeta\obj\Debug\CadastrosBeta.csprojAssemblyReference.cache
+C:\Programas\CadastrosBeta\obj\Debug\CadastrosBeta.FrmPrincipal.resources
+C:\Programas\CadastrosBeta\obj\Debug\CadastrosBeta.FrmSplashScreen.resources
+C:\Programas\CadastrosBeta\obj\Debug\CadastrosBeta.Properties.Resources.resources
+C:\Programas\CadastrosBeta\obj\Debug\CadastrosBeta.csproj.GenerateResource.cache
+C:\Programas\CadastrosBeta\obj\Debug\CadastrosBeta.csproj.CoreCompileInputs.cache
+C:\Programas\CadastrosBeta\obj\Debug\CadastrosBeta.exe
+C:\Programas\CadastrosBeta\obj\Debug\CadastrosBeta.pdb
+C:\Programas\CadastrosBeta\obj\Debug\CadastrosBeta.FrmPessoas.resources
+C:\Programas\CadastrosBeta\bin\Debug\DBDados.mdf
+C:\Programas\CadastrosBeta\bin\Debug\DBDados_log.ldf
